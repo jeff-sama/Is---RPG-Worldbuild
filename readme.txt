@@ -1,0 +1,2 @@
+Notes on editing:
+	-All of my formatting is done using the program notepad++, which is way better than plain old notepad and I encourage using it. Not using it will make Jeff very upset since he will have to go and reformat your shit probably so please use it it's free.

@@ -1,0 +1,77 @@
+Nation state, ran by an aristocracy of squabbling noblemen.
+
+To the far north (~200 miles), Remington sits, a port city formed around a seafront fort. Remington's industries include clay mining, fishing and lumber.
+
+	Remington: Large Town
+		Population - ~3,500
+		Base Limit - 2,000 gp (Minor 3d4, Med 2d4, Maj 1d4)
+		Purchase Limit - 10,000 gp
+		Spellcasting - 5th
+		
+		-Services-
+		Portside Market (+25 to sea-related items, +10 to mining and forestry related items)
+		Smith
+		Alchemist (Level 5)
+		Enchanter (Level 5)
+		General Store (fully stocked)
+		Tavern
+		Stables
+
+About 150 miles north of Tarly is Stemrel, a riverside trade city. Stemrel specializes in fishing, lumber, and shipping.
+
+	Stemrel: Small City
+		Population - ~5,250
+		Base Limit - 4,000 gp (Minor 4d4, Med 3d4, Maj 1d6)
+		Purchase limit - 25,000 gp
+		Spellcasting - 6th
+
+		-Services-
+		Riverwalk Marketplace (+25 to travel related items, +15 to sea-related items, +10 to forestry related items
+		Smith
+		Alchemist (Level 6)
+		Enchanter (Level 6)
+		General Store (fully stocked)
+		Taverns
+		Stables (Carriage service to Tarly)
+		Ship passage upriver (Goes to Gauwes)
+		Venture Company Post
+
+Tarly is the capitol and namesake of the Nation state, and the seat of the Republican Council of Tarly.
+
+	Tarly: Large City
+		Population - ~15,000
+		Base Limit - 8,000 gp (Minor 4d4, Med 3d4, Maj 2d4)
+		Purchase Limit - 50,000 gp
+		Spellcasting - 7th
+
+		-Services-
+		Tarly Grand Marketplace (+15 all items, +25 domestic, +10 sea-related)
+		Smith (Mithril)
+		Alchemist (Level 7)
+		Enchanter (Level 7)
+		Court Wizard (Level 7) *secret*
+		Necromancer (Level 7) *secret*
+		General Store (fully stocked)
+		Taverns
+		Stables (Carriage service to Stemrel, Shrewd Fort)
+		Ship passage Southport, Easterlynn, Remington *out of service*
+		Venture Company Post
+
+West of Tarly is Shrewd Fort, named after Tarly's founder, Alexander "the Shrewd" Tarles
+
+	Shrewd Fort: Small town
+		Population - ~600
+		Base Limit - 1,000 gp (Minor 3d4, Med 1d6)
+		Purchase Limit - 5,000 gp
+		Spellcasting - 4th
+
+		-Services-
+		Marketplace
+		Smith
+		Alchemist (Level 4)
+		Enchanter (Level 4)
+		General Store (Well stocked)
+		Stables (Carriage service to Tarly)
+		Inn
+		
+		

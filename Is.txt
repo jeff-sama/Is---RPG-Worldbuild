@@ -1,0 +1,167 @@
+ ______  __                  ____                 __                                __      __                 ___       __     
+/\__  _\/\ \                /\  _`\              /\ \__                            /\ \  __/\ \               /\_ \     /\ \    
+\/_/\ \/\ \ \___      __    \ \ \L\_\ __      ___\ \ ,_\    __      ____  __  __   \ \ \/\ \ \ \    ___   _ __\//\ \    \_\ \   
+   \ \ \ \ \  _ `\  /'__`\   \ \  _\/'__`\  /' _ `\ \ \/  /'__`\   /',__\/\ \/\ \   \ \ \ \ \ \ \  / __`\/\`'__\\ \ \   /'_` \  
+    \ \ \ \ \ \ \ \/\  __/    \ \ \/\ \L\.\_/\ \/\ \ \ \_/\ \L\.\_/\__, `\ \ \_\ \   \ \ \_/ \_\ \/\ \L\ \ \ \/  \_\ \_/\ \L\ \ 
+     \ \_\ \ \_\ \_\ \____\    \ \_\ \__/.\_\ \_\ \_\ \__\ \__/.\_\/\____/\/`____ \   \ `\___x___/\ \____/\ \_\  /\____\ \___,_\
+      \/_/  \/_/\/_/\/____/     \/_/\/__/\/_/\/_/\/_/\/__/\/__/\/_/\/___/  `/___/> \   '\/__//__/  \/___/  \/_/  \/____/\/__,_ /
+                                                                              /\___/                                            
+                                                                              \/__/                                             
+																 ___      ______            
+															   /'___\    /\__  _\           
+														  ___ /\ \__/    \/_/\ \/     ____  
+														 / __`\ \ ,__\      \ \ \    /',__\ 
+														/\ \L\ \ \ \_/       \_\ \__/\__, `\
+														\ \____/\ \_\        /\_____\/\____/
+														 \/___/  \/_/        \/_____/\/___/ 
+										
+															A Tabletop RPG Worldbuild
+ _____     _     _               __    ____            _             _       
+|_   _|_ _| |__ | | ___    ___  / _|  / ___|___  _ __ | |_ ___ _ __ | |_ ___ 
+  | |/ _` | '_ \| |/ _ \  / _ \| |_  | |   / _ \| '_ \| __/ _ \ '_ \| __/ __|
+  | | (_| | |_) | |  __/ | (_) |  _| | |__| (_) | | | | ||  __/ | | | |_\__ \
+  |_|\__,_|_.__/|_|\___|  \___/|_|    \____\___/|_| |_|\__\___|_| |_|\__|___/
+------------------------------------------------------------------------------
+	  I. Landmasses and Geography
+		 A. Aftea
+			  I. Isanmaame
+			 II. The Reaches
+			III. Hovel
+			 IV. Goldspan
+			  V. The Elfwood
+		 B.	Nuess (Sentora)
+			  I. Sentora
+			 II. Borea
+			III. Sothoria
+			 IV. Pyande
+		 C. Unerth
+	 II. Peoples and Politics
+		 A.	Races of Is
+			  I. Mundane Races
+				  i. Human
+				 ii. Dwarf
+				iii. Halfling
+				 iv. Azer
+				  v. Duergar
+				 
+			 II. Elven Races
+				  i. High Elf
+				 ii. Wood Elf
+				iii. Snow Elf
+				 iv. Half-elf
+				  v. Orc
+				 vi. Half-orc
+				vii. Drow
+				iix. Dwelf
+				 
+			III. Miscellaneous Races
+				  i. Catfolk
+				 ii. Tiefling
+				iii. Ratfolk
+				 iv. Grippli
+				  v. Nagaji
+				 vi. Gnoll
+				vii. Tengu
+				 
+			 IV. Pseudo Races
+				  i. Aasimar
+				 ii. Element
+				iii. Tiefling
+			  
+		 B. Religions of Is
+			  I. The Faith In The Light
+			 II. Oacanism
+			 
+		 C.	Civilizations of Is
+			  I. United Emperate of Men
+			 II. The Old Empire
+			III. Isanmaame
+			 IV. Orcam
+			  V. Mountain Kingdom of the Dwarves
+			  
+	III. History
+		 A.	At a glance
+			  I. Cylchun
+			 II. Cylchdau
+			III. Cylchtri
+			 IV. Cylchped
+			  V. Cylchum
+			 
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+I. LANDMASSES AND GEOGRAPHY
+------------------------------------------------------------------------------
+	A. Aftea
+		Aftea is the second largest known landmass on Is. It is comprised of warm plains and forests to its southern coastline and bitterly cold mountains and tundras within its northern reaches. 
+		Between are temperate, rocky highlands.  This region is home to many races and peoples, however the bulk populace is composed of Humans, Dwarves, and Elven peoples.
+		
+		   I. Isanmaame
+			   (Ee-san-mom) Isanmaame means "Homeland" in elvish, and is the northernmost region and province of Aftea. An ancient land, Isanmaame's icy peaks and frozen tundras have been the home of elves for all of recorded history. While the northern reaches of Isanmaame are for the most part harsh and inhospitable, the southern and western coastlines receive warm southern winds. These regions are home to towering pine forests, with some trees reaching heights of two-hundred feet and thirty feet in diameter. Wood elves trace their ancestries back to these so-called "Valentrees", where thousands of years ago they constructed homes and settlements within the piny tree-tops. Few of these settlements remain today, and large swathes of forest are cleared by elves in order to expand their growing populations and cities.
+			   
+		  II. The Reaches
+				When the torrential rains of the third age flooded much of the farmland in southern Aftea, mankind migrated to the highland reaches, a large, mountainous peninsula reaching into the Straight Sea. While it's rocky landscape allows little farming, the fertile waters of the nearby gulf provide plenty of aquatic sustenance. Here an expansive trade empire was born, which later grew into the United Emperate of Men in the third age. The reaches are primarily populated by Humans, however Dwarves and Halflings can be found as well, albeit in small numbers. Elves are nearly entirely absent from the coastlines of the Reaches.
+				
+				(See: United Emperate of Men for more)
+				
+		 III. Hovel
+				Hovel is a rocky, low-lying region located in the north center of Aftea. Ancient quarries and mine shafts are a common sight, and are believed to have been dug sometime in the first or second ages.  Hovel is known to be the birthplace of the Mountain Kingdom of the Dwarves, however the majority population in this region today is Halfling.  That being said, many clans of Dwarves still call this region home, some dating back hundreds of years. Hovel was conquered in the second age by the Old Empire, but today is independent. The surrounding mountains are dotted with lonely monasteries.
+				
+		  IV. Goldspan
+				To the south west of Hovel, Goldspan is a warm region home to dwarves, humans, and many other races.  The warm winds of the Straight Sea complement the golden beaches and boulders of the nearby Andal mountains. These mountains, as legend states, were once crowned with peaks of solid gold, but dwarven miners in the second age stripped the peaks of their gold, leaving only flat peaks, and coating the nearby landscape in golden dust. Today the region attracts miners to the mountains and merchants to the coastal ports.
+				
+	B. Nuess
+		(Noo-ess) It is unclear exactly how long the peoples of Aftea have known of the existence of Nuess, however it wasn't until roughly two hundred years ago that the continent began being settled by eastern agents. What began as trade colonies blossomed into a handful of self-governed city-states. 
+		
+		   I. Borea
+				The northernmost region of Nuess, Borea is dotted with striking pine forests and sweeping, snowy tundras.  Majestic mountains and sparkling rivers are scattered across the beautiful northern landscape. This region has been settled by the Elven empire for an indeterminate amount of time, and is touched by an archipelago linking Nuess to the northern tip of Isanmaame.
+				
+		  II. Sentora
+				The central and largest region of Nuess, Sentora refers to the Sentora Peninsula on the eastern coast of Nuess as well as the main landmass of Nuess itself. Sentora is the seat to the majority of the city-states in Nuess, as well as housing many dwarven mountain-cities and orcish strongholds along its western and south western regions.
+				
+				The city states:
+				
+				State of the Eastern Isle: A relatively young state that governs the marshy island of Easterlynn. Its capitol shares its name with the island. A trade republic, this nation is governed by its Council of Companies. Bloodsports are a common sight in the capitol, with many tournaments held to entertain sailors in port. Along with a ruthless police force, this allows Easterlynn to maintain exceedingly low crime rates. A second port city, Charlesport, lies to the north of Easterlynn, along with two towns to the north, Flatdock and Bowentown. 
+				
+				Ardougne: (Ar-doan) Seated in the Valley of Summers, the influence of Ardougne stretches to both the northern and southern coasts of the Sentoran peninsula. Ardougne sits at the foot of the Redridge mountain range, along the flow of the Painted River. An impressively sized city, Ardougne attracts mining and forging industries due to the large deposits of iron situated in the Redridge mountains. Ardougners have a reputation to be stern and quick about their dealings, and reserved towards outsiders. Various Ardougnian mining villages and outposts dot the Redridge mountains.
+				
+				Tarly: An Aristocracy, Tarly is but another of the booming states in Sentora. Fertile lands and towering forests provide ample food and lumber for trade, mostly to the Reach and other less wooded areas of Is. Tarly is notorious for its somewhat turbulent nobility, who often feud and quarrel. In the year 4E 117, a wedding chapel was famously destroyed in such a feud. To the north of Tarly lies the city of Remington, a port city with access to large quarries of clay and marble, secluded amongst tall redwood forests.
+				
+				Arland: Arland is a Libertarian's paradise. Free enterprise is king, with a central government soley existing to enforce the land's few laws and to mediate disputes between companies. The seat of this vast network of trade and plenty is Southport, the bustling trade hub of Sentora. The position of power in Arland lies with Southport's current Patron (or Matron), and generally stays within family (or corporate) lines. The seas around Southport are notorious for piracy, but such is the way of Arland, and the citizens have come to adapt.
+				
+		 III. Sothoria
+				Described by explorers as a hot and humid hellscape, Sothoria is a difficult land to traverse. Dense jungle blankets the land, its canopies shrouding most of the environment in darkness. A volcanic region, Sothoria's landscape is dotted by vents and geisers spewing hot gas and water vapor. The primary natives of this land appear to be Gnolls, who have ravaged any attempted settlements created on the region's northern coasts. Deep within the heart of the landmass lies a region known as the Vorpal Jungle. Explorers describe this forest as a deep abyss of twisting vines and colossal trees, where the ground beneath slips into oblivion beneath a blanket of brush.  It is unknown exactly how deep the "pit" of the Vorpal Jungle truly is.  Grippili, a race of small frog-like people, make their homes in this enigmatic forest.
+		 
+		  IV. Pyande
+				(Pee-and-ee) The smallest and southernmost landmass in Nuess, Pyande is a land shrouded in mystery.  This is largely due to the existence of a massive reef surrounding Pyande and extending at some points one hundred nautical miles from the shore, preventing the landing of any large vessels.
+				
+	C. Unerth
+		(Yoo-Nehrf) Beyond the Stillwater Sea, undiscovered by eastern races and uncontacted for untold millennia lies Unerth. A shadowy region, Unerth holds mysterious evils and magics unknown to the rest of the world. Here the undead roam free, tended to by the crow-like Tengu.
+				
+------------------------------------------------------------------------------
+II. PEOPLES AND POLITICS
+------------------------------------------------------------------------------
+	A. Races of Is
+
+		   I. Mundane Races
+				Dwarves, Humans, and Halflings all trace their ancestry to an ancient race of people known as the Azer. This branch of races is titled "Mundane". Mundane races are composed of hardy individuals, skilled craftsmen known for working with their hands. They have populated Aftea for millennia, and parts of Nuess for centuries. To the elves of Isanmaame they are known as "People of the earth", or "The Earthen", due to their origins being deep within the bowels of Is.
+		  II. Elven Races
+		 III. Miscellaneous Races
+				i. Catfolk
+			   ii.
+			  iii.
+			   iv.
+			    v.
+			   vi.
+			  vii. Tengu
+					Undiscovered to western peoples, the crow-like Tengu inhabit the shadowy land of Unerth.
+			
+			
+				
+	CURRENT YEAR: 4E 160
+				
+		
+		
+		  
+			
+		
